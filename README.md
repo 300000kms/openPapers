@@ -30,10 +30,10 @@ Is made by three main blocks of code:
  - 3.1 digitize the maps
  - 3.2 digitize the forms
   
- <img style ="width:600px" src ="https://github.com/300000kms/arrels/blob/master/img/recompte-2016-600x400.jpg?raw=true">
+ <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/recompte-2016-600x400.jpg?raw=true">
 <br>
- <img style ="width:600px" src ="https://github.com/300000kms/arrels/blob/master/img/arrels_viewer.png?raw=true">
+ <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/arrels_viewer.png?raw=true">
 <br>
- <img style ="width:600px" src ="https://github.com/300000kms/arrels/blob/master/img/CixFSxBXIAI499s.jpg?raw=true">
+ <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/CixFSxBXIAI499s.jpg?raw=true">
 <br>
 
