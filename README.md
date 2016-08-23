@@ -32,8 +32,9 @@ Is made by three main blocks of code:
   
  <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/recompte-2016-600x400.jpg?raw=true">
 <br>
- <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/arrels_viewer.png?raw=true">
-<br>
  <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/CixFSxBXIAI499s.jpg?raw=true">
 <br>
+ <img style ="width:600px" width="600px" src ="https://github.com/300000kms/arrels/blob/master/img/arrels_viewer.png?raw=true">
+<br>
+
 
