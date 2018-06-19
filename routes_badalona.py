@@ -19,7 +19,7 @@ todo: load conf from json file
 import os
 root = '/'.join( os.getcwd().split('/')[0:-1] )
 
-city = 'barcelona'
+city = 'badalona'
 
 ################################################################
 project = 'project_'+city

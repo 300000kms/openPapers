@@ -1,0 +1,111 @@
+<Composer title="form" visible="1">
+ <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <SnapLine y1="297.086" x1="0" y2="297.086" x2="210"/>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Recompte REUS&#xa;2016" htmlState="0" halign="1">
+   <LabelFont description="Ubuntu,18,-1,5,63,0,0,0,0,0" style="Medium"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="9.26655" page="1" id="project" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="9.77438" y="9.26655" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.9303" outlineWidth="0.3" excludeFromExports="0" uuid="{70fc605b-b5c9-4b53-9a3c-d2e25b5dd605}" height="24.7368" itemRotation="0" frame="false" pagex="9.77438">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerShape shapeType="1" cornerRadius="0">
+   <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+    <layer pass="0" class="SimpleFill" locked="0">
+     <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="color" v="0,0,0,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="0,0,0,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.3"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+    </layer>
+   </symbol>
+   <ComposerItem pagey="9.26655" page="1" id="" lastValidViewScaleFactor="-1" positionMode="2" positionLock="false" x="130" y="9.26655" visibility="1" zValue="8" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="70" outlineWidth="0.3" excludeFromExports="0" uuid="{15d316a1-d7ca-4295-ba61-5e8d508c610a}" height="1" itemRotation="0" frame="false" pagex="130">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerShape>
+  <ComposerLabel valign="32" marginX="0" marginY="0" labelText="*zona 1,0,0*" htmlState="0" halign="2">
+   <LabelFont description="Free 3 of 9 Extended,28,-1,5,50,0,0,0,0,0" style="Regular"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="38.493" page="1" id="cbarres" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="50.4093" y="38.493" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="149.478" outlineWidth="0.3" excludeFromExports="0" uuid="{e5b854a1-840a-43a5-b334-33e535e1a518}" height="8.791" itemRotation="0" frame="false" pagex="50.4093">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="0" marginY="0" labelText="zona" htmlState="0" halign="2">
+   <LabelFont description="Ubuntu,48,-1,5,63,0,0,0,0,0" style="Medium"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="7.92607" page="1" id="zona" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="125.813" y="7.92607" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="74.074" outlineWidth="0.3" excludeFromExports="0" uuid="{6eaf8716-c081-4ed0-8635-edff79ca6df1}" height="18.1963" itemRotation="0" frame="false" pagex="125.813">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="0" marginY="0" labelText="página" htmlState="0" halign="2">
+   <LabelFont description="Ubuntu,20,-1,5,63,0,0,0,0,0" style="Medium"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="26.1224" page="1" id="pagina" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="121.617" y="26.1224" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="78.3833" outlineWidth="0.3" excludeFromExports="0" uuid="{52cf6001-bcb9-4b5c-9e48-7e1c6ce8369a}" height="10.3706" itemRotation="0" frame="false" pagex="121.617">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="22.8598" file="../project_reus/qrcodes/111_1_0.png" pictureHeight="23" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="10" page="1" id="qrcode" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="71.0004" y="10" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="23" outlineWidth="0.3" excludeFromExports="0" uuid="{76705761-37d9-4e2d-b14d-765dbfceb500}" height="23" itemRotation="0" frame="false" pagex="71.0004">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="23" file="../project_reus/img/logo.svg" pictureHeight="23" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="10" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="100.719" y="10" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="23" outlineWidth="0.3" excludeFromExports="0" uuid="{51f622f1-61cf-4f69-8d49-54de8e771cc9}" height="23" itemRotation="0" frame="false" pagex="100.719">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="209.875" file="../project_reus/img/formArrels_03.svg" pictureHeight="297" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="0" y="0" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="210" outlineWidth="0.3" excludeFromExports="0" uuid="{c0a92e4f-9051-4b4c-9bc9-582cb69459a0}" height="297" itemRotation="0" frame="false" pagex="0">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="210" file="../project_reus/img/corners_a4.svg" pictureHeight="296.935" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="0.0862188" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="0" y="0.0862188" visibility="1" zValue="1" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="210" outlineWidth="0.3" excludeFromExports="0" uuid="{eb0e9e7d-82b1-4794-b83a-b9c6f373bf8f}" height="297" itemRotation="0" frame="false" pagex="0">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <customproperties/>
+ </Composition>
+</Composer>

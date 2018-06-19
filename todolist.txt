@@ -1,0 +1,78 @@
+################################
+todo list
+################################
+folders structure
+
+
+--/code
+----------- buildZones.py
+----------- createBounds.py
+----------- divideBounds.py
+----------- generateAtlas.py
+
+----------- createTemplates.py???
+----------- createProject?? (estructura de carpetas y otros...)
+
+--/project
+
+----------- /zones : zones
+-----------------municipi.sqlite (el municipi)
+-----------------districtes.sqlite (o grups de treball)
+-----------------zones.sqlite (zones compatibles amb les unitats censals?)
+
+----------- /bases (archivos SHP de catastro en los formatos que toque)
+----------------- masa
+----------------- parcela
+----------------- linies
+----------------- opció de icc?
+
+----------- /bounds****
+
+----------- /out
+
+----------- /temp
+----------------- /qrs
+
+----------- / templates
+---- qgis files
+
+###############################################################################
+
+los ids de cada zona seran strings,
+por si acaso se convertiran siempre a string,
+y siempre se les eliminará los ceros precedentes ltrim('0')
+
+###############################################################################
+
+el script buildZones coje los distritos y las zonas y los asocia
+la entrada que se nos pide de cada uno es el campo de id y el campo de nombre
+en caso de que el campo de nombre esté vacio entonces se toma el id
+en caso de que el id esté vacio se toma el rowid
+
+###############################################################################
+
+
+nombres de capa
+divisions
+zones
+zones2
+divisions2
+zones
+districtes
+bounds
+
+
+
+nombre de layersets
+
+QgsProject.instance().visibilityPresetCollection().presets()
+
+###########################
+resolver dependencia con codigo de barras font
+aplicar los layersets presets por codigo, no en las plantillas...
+
+determinar porque es tan lento en el ordenador pequeño...
+
+en el archivo bounds divisions indicar a que distrito pertenece cada una...., ayudará en los recuentos finales y entitulados
+
+
